@@ -17,6 +17,7 @@ Right click, and click on open terminal.
 
 ## STEP 5: 
 chmod u=rwx,g=r,o=r *
+
 Copy and enter the above command in terminal. (Run this command everytime it says Permission_Denied)
 
 ## STEP 6:
